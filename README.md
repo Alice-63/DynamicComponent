@@ -1,4 +1,4 @@
-# developed-component
+# Dynamic Component
 
 > A Vue.js project
 
