@@ -1,4 +1,5 @@
 # Dynamic Component
+![](https://github.com/Alice-63/ScrollSpay/blob/main/ScrollSpy.gif)
 
 > A Vue.js project
 
